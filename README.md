@@ -24,5 +24,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </p>
 
-### GitHub 统计 / GitHub Stats 📊
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakura1314lyc&show_icons=true&theme=tokyonight&locale=cn)
