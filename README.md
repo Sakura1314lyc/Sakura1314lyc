@@ -25,6 +25,4 @@
 </p>
 
 ### GitHub 统计 / GitHub Stats 📊
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakura1314lyc&show_icons=true&theme=tokyonight&locale=cn" alt="GitHub Stats" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sakura1314lyc&show_icons=true&theme=tokyonight&locale=cn)
