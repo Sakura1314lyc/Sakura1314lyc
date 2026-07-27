@@ -12,7 +12,7 @@
 - 持续使用 **C++** 征战各大算法竞赛平台。
 
 ### 技术栈 / 技術スタック 💻
-<div align="center">
+<div align="left">
   <strong>编程语言 / Languages</strong>
   <br /><br />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="44" alt="C++" title="C++" />
